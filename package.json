@@ -1,0 +1,16 @@
+{
+  "name": "vue-blog",
+  "version": "1.0.0",
+  "description": "my own blog",
+  "main": "index.js",
+  "scripts": {
+    "write": "vuepress dev",
+    "build": "vuepress build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangjunbin",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
