@@ -15,6 +15,9 @@ module.exports = {
             {
                 text: '健身',
                 link: '/blogs/bodybuilding/'
+            }, {
+                text: '游戏',
+                link: '/blogs/gameing/'
             },
         ],
         sidebar: {
@@ -28,6 +31,7 @@ module.exports = {
                         '/blogs/coding/base/',
                         '/blogs/coding/base/markdown',
                         '/blogs/coding/base/ssh',
+                        '/blogs/coding/base/vim',
                     ]
                 },
                 {
@@ -40,7 +44,12 @@ module.exports = {
                     title: 'JavaScript学习',
                     collapsable: true,
                     children: [
-                        '/blogs/coding/javascript/'
+                        '/blogs/coding/javascript/eventloop',
+                        '/blogs/coding/javascript/excute-context',
+                        '/blogs/coding/javascript/promise-a-plus',
+                        '/blogs/coding/javascript/promise',
+                        '/blogs/coding/javascript/es6-array',
+                        '/blogs/coding/javascript/es6-module'
                     ]
                 },
                 {
@@ -56,6 +65,14 @@ module.exports = {
                     children: [
                         '/blogs/coding/vue/vue-source-init',
                         '/blogs/coding/vue/vue-source-data'
+                    ]
+                },
+                {
+                    title: 'React学习',
+                    collapsable: true,
+                    children: [
+                        '/blogs/coding/react/react-tutorial'
+                        // '/blogs/coding/react/react-readme'
                     ]
                 },
                 {

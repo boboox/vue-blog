@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /bobozhang.jpg
-actionText: 进来看看 →
-actionLink: /blogs/
+actionText: ─=≡Σ(((つ•̀ω•́)つ))
+actionLink: /blogs/coding/base/
 features:
-- title: 代码
-  details: 代码代码代码代码代码代码代码代码代码代码代码代码代码
-- title: 健身
-  details: 健身健身健身健身健身健身健身健身健身健身健身健身健身
-- title: 游戏
-  details: 游戏游戏游戏游戏游戏游戏游戏游戏游戏游戏游戏游戏游戏
+- title: 代码(*￣(エ)￣)
+  details: 不被工作淘汰
+- title: 健身⊙﹏⊙b汗
+  details: 不被健康淘汰
+- title: 游戏 ♥(✿ฺ´∀`✿ฺ)ﾉ 
+  details: 不被无趣淘汰
 footer: MIT Licensed | boboZhang
 ---
 

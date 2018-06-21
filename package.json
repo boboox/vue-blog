@@ -6,6 +6,7 @@
   "scripts": {
     "write": "vuepress dev",
     "build": "vuepress build",
+    "deploy": "rm -rf ~/Work/boboox.github.io/assets/* & rm -rf ~/Work/boboox.github.io/blogs/* & cp -r ~/Work/vue-blog/.vuepress/dist/* ~/Work/boboox.github.io/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "zhangjunbin",
