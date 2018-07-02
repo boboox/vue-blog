@@ -10,35 +10,25 @@ module.exports = {
             },
             {
                 text: '代码',
-                link: '/blogs/coding/'
+                link: '/blogs/coding/other/linux'
             },
             {
                 text: '健身',
-                link: '/blogs/bodybuilding/'
+                link: '/blogs/bodybuilding/tmf'
             }, {
                 text: '游戏',
                 link: '/blogs/gameing/'
             },
         ],
         sidebar: {
-            '/blog/': [
-                ''
-            ],
             '/blogs/coding/': [{
-                    title: '基础芝士',
+                    title: '其他',
                     collapsable: true,
                     children: [
-                        '/blogs/coding/base/',
-                        '/blogs/coding/base/markdown',
-                        '/blogs/coding/base/ssh',
-                        '/blogs/coding/base/vim',
-                    ]
-                },
-                {
-                    title: '前端学习',
-                    collapsable: true,
-                    children: [
-                        '/blogs/coding/frontend/'
+                        '/blogs/coding/other/linux',
+                        '/blogs/coding/other/markdown',
+                        '/blogs/coding/other/ssh',
+                        '/blogs/coding/other/vim'
                     ]
                 }, {
                     title: 'JavaScript学习',
@@ -98,7 +88,8 @@ module.exports = {
                 }
             ],
             '/blogs/bodybuilding/': [
-                '', 'tmf', 'test2'
+                '/blogs/bodybuilding/tmf',
+                '/blogs/bodybuilding/training-plan'
             ]
         }
     },

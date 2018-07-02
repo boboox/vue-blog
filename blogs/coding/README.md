@@ -1,28 +1,13 @@
 ---
-title: 源码阅读(一)Vue响应式原理
+title: 导览
 ---
 
-代码介绍
+# 导览
 
-[{
-    title: 'Base',
-    collapsable: false,
-    children: [
-        '',
-        '/base'
-    ]
-}, {
-    title: 'JavaScript',
-    collapsable: false,
-    children: [
-        '/javascript'
-    ]
-},
-{
-    title: 'CSS',
-    collapsable: false,
-    children: [
-        '/css'
-    ]
-}
-]
+记录工作学习中遇到的问题和一些比较基础的知识点
+
+如果是移动端浏览,可以点击左上角的'三条杠'
+
+菜单全部都隐藏在那了~
+
+不定期更新中...
