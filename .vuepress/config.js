@@ -31,6 +31,15 @@ module.exports = {
                         '/blogs/coding/other/vim'
                     ]
                 }, {
+                    title: 'Http',
+                    collapsable: true,
+                    children: [
+                        '/blogs/coding/http/https',
+                        '/blogs/coding/http/http2.0',
+                        '/blogs/coding/http/handshake',
+                        '/blogs/coding/http/optimize'
+                    ]
+                }, {
                     title: 'JavaScript学习',
                     collapsable: true,
                     children: [
@@ -39,7 +48,16 @@ module.exports = {
                         '/blogs/coding/javascript/promise-a-plus',
                         '/blogs/coding/javascript/promise',
                         '/blogs/coding/javascript/es6-array',
-                        '/blogs/coding/javascript/es6-module'
+                        '/blogs/coding/javascript/es6-module',
+                        '/blogs/coding/javascript/es6-generator'
+                    ]
+                },
+                {
+                    title: 'NodeJs学习',
+                    collapsable: true,
+                    children: [
+                        '/blogs/coding/node/koa',
+                        '/blogs/coding/node/koa-source'
                     ]
                 },
                 {
